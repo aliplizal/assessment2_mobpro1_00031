@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">Assessment 2</string>
+    <string name="app_name">Manajemen Baca Buku</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="tambah_buku">Tambah Buku</string>
+    <string name="judul">Judul</string>
+    <string name="kategori">Kategori</string>
+    <string name="status">Status</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_buku">Ubah Buku</string>
+    <string name="invalid">Judul, Kategori, dan Status tidak boleh kosong.</string>
+    <string name="lainnya">Opsi lainnya</string>
+    <string name="hapus">Hapus buku</string>
+    <string name="pesan_hapus">Hapus buku ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+    <string name="sampah">Sampah</string>
+    <string name="pulihkan">Pulihkan</string>
+    <string name="hapus_permanen">Hapus Permanen</string>
 </resources>
